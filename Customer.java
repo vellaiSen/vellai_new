@@ -1,6 +1,6 @@
 public class Customer
 {
-int amount = 500;
+int amount = 500;non-static variable
 public static void main(String[] args)
 {
 Customer customer1 = new Customer();
